@@ -22,11 +22,11 @@ The submission consists of the following files:
 run_analysis.R is the only script required to run the analysis.
 
 ### Instructions
-1. Checkout the code using ' <directory>', where <directory> is your working folder.
-2. Load RStudio and check your working directory using getwd(). If your working directory is not <directory>, set it to <directory> using setwd("<directory>").
+1. Checkout the code using 'git checkout https://github.com/aaronghunter/Dat_Sci_C3_Getting_Cleaning_Data.git `directory`', where `directory` is your working folder.
+2. Load RStudio and check your working directory using getwd(). If your working directory is not `directory`, set it to `directory` using setwd("`directory`").
 3. Load the R script (run_analysis.R) using source.
 4. Run the script using run_analysis().
-5. Enjoy the resultant files, Complete_Data.txt and Calculated_Tiny_Data.txt in <directory>.
+5. Enjoy the resultant files, Complete_Data.txt and Calculated_Tiny_Data.txt in `directory`.
 
 ### Dependencies & Notes
 1. The script was written on Windows, so the download method is not specified. If you wish to run it on OSX, you must add 'method=curl' to download.file().
